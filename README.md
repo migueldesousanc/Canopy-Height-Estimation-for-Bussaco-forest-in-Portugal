@@ -54,4 +54,4 @@ Simply open and run the Jupyter Notebook (`.ipynb`). The script handles data sou
 This project would not be possible without the incredible open-source tools and research provided by the geospatial community. 
 
 * A special thank you to **Professor Qiusheng Wu** ([GitHub](https://github.com/giswqs)) for developing the `geoai` and `leafmap` Python libraries. His dedication to making complex Earth Observation tools accessible was the direct inspiration for this workflow.
-* I also want to acknowledge **Tolan et al.** and the research team behind the original Meta *HighResCanopyHeight* model. Their groundbreaking work in utilizing self-supervised vision transformers to extract 3D canopy architecture from 2D RGB imagery provided the core machine learning engine for this analysis.
+* I also want to acknowledge **Tolan et al.** and the research team behind the original Meta *HighResCanopyHeight* model. Their groundbreaking work in utilizing self-supervised vision transformers to extract 3D canopy architecture from 2D RGB imagery provided the core machine learning engine for this analysis.  https://doi.org/10.1016/j.rse.2023.113888
