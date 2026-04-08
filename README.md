@@ -38,10 +38,7 @@ To translate raw pixel values into tangible physical metrics, I integrated a vol
 ## Installation & Setup
 
 ### Prerequisites
-You will need Python installed along with the following geospatial and scientific libraries:
-
-```bash
-pip install geoai-py leafmap rasterio scikit-image matplotlib numpy
+You will need Python installed along with the following geospatial and scientific libraries
 
 ## Usage
 Simply open and run the Jupyter Notebook (`.ipynb`). The script handles data sourcing automatically; no raw satellite files need to be manually downloaded. The workflow is divided into logical steps:
